@@ -1,0 +1,17 @@
+package: search_it_autocomplete
+version: '6.10.1'
+author: Manétage, FriendsOfREDAXO
+
+title: 'translate:search_it_autocomplete_title'
+description: 'translate:search_it_autocomplete'
+
+page:
+    perm: search_it[:autocomplete]
+    title: 'translate:search_it_autocomplete_title'
+    icon: rex-icon fa-commenting
+
+requires:
+    packages:
+        search_it : '>=6.10.1'
+    php:
+        extensions: [ gd ]
