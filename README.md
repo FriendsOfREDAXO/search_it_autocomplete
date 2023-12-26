@@ -1,8 +1,10 @@
-# Autocomplete-Erweiterung für `search_it`
+# WIP 🚧 Autocomplete-Erweiterung für `search_it`
 
 Das Addon stellt das "Suggest"-jQuery-PlugIn für die Autovervollständigung bei
 der Suche im Frontend zur Verfügung und generiert einen Code welcher im Template
 eingebunden werden muss.
+
+Abkapselung des Plugins für Search it als eigenes Addon.
 
 ## Requirements
 
